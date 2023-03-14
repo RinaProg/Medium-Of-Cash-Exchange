@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currency Converter Page</title>
+    <!-- Boxicons CSS -->
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="{{url_for('static', filename='style1.css')}}">
+</head>
+<body>
+
+    <form action="/" method="post">
+    <div class="wrapper">
+        <div class="col">
+            <div class="text">Currency Converter &nbsp;
+                <a><img src="{{url_for('static', filename='img/exchange.png')}}" width="40" height="40"></a>
+            </div>
+            <div class="s6">
+                
+                <div class="sm">Enter Amount</div>
+                <input type="number" name="amount" id="Amount">
+                <div class="transfer">  
+                    <select class="select-text" name="have">
+                        <option value="From">💰 From</option>
+                        <option value="INR">₹ INR</option>
+                        <option value="USD">$ USD</option>
+                        <option value="BDT">৳ BDT</option>
+                        <option value="EUR">€ EUR</option>
+                        <option value="CNY">¥ CNY</option>
+                        <option value="BHD">د.ك BHD	</option>
+                        <option value="COP">₱ COP</option>
+                        <option value="DKK">Kr. DKK</option>
+                        <option value="EGP">£ EGP	</option>
+                        <option value="GEL">ლ GEL</option>
+                    </select>
+                    <div class="icon">
+                        <span class="bx bx-transfer"></span>
+                    </div>
+                    <select class="select-text" name="want">
+                        <option value="To">💰 To</option>
+                        <option value="INR">₹ INR</option>
+                        <option value="KZT">₸ KZT</option>
+                        <option value="USD">$ USD</option>
+                        <option value="EUR">€ EUR</option>
+                        <option value="KRW">₩ KRW</option>
+                        <option value="LAK">₭ LAK</option>
+                        <option value="MVR">.ރ MVR</option>
+                        <option value="NPR">रू NPR	</option>
+                        <option value="OMR">﷼ OMR</option>
+                        <option value="SZL">₣ SZL</option>
+                    </select>
+                </div>
+                <div class="s2">
+                    <div class="conversion"></div>
+                    <div class="messages"></div>
+                </div>
+                <div class="button">
+                    <button class="btn">Convert</button>
+                </div>
+                <br>
+                <div>
+                   <p align="center" style="font-family: Times;color:rgb(25, 174, 25);font-size:20px;font-weight:bolder;">AMOUNT : {{new_val}} </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+</body>
+</html>
+
