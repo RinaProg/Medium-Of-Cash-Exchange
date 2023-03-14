@@ -13,7 +13,7 @@ def test_home():
             old_amt=request.form.get('amount')
 
             api_url = (f'https://api.api-ninjas.com/v1/convertcurrency?want={new_cur}&have={old_cur}&amount={old_amt}')
-            response = requests.get(api_url, headers={'X-Api-Key': 'XqiOYs7GvZPiVS94OmamJg==8mIK9ItYZoyV6HaX'})
+            response = requests.get(api_url, headers={'X-Api-Key': ''}) # api key=use your own api
             data=response.json()
             new_amt=(data['new_amount'])
             new_val=(f"{new_amt:.2f}")
