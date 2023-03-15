@@ -2,7 +2,7 @@
 Built in Python Api , Framework Flask 
 
 ## OVERVIEW:
-   A web application is built using Python framework (Flask) and currency conveter API,
+   A web application is built using Python framework (Flask) and currency converter API,
    This application helps to convert amount from one currency to another currency. 
 
 ## OUTPUT:
