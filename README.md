@@ -15,7 +15,7 @@ Built in Python Api , Framework Flask
     Flask 2.2.2
 ## TOOLS:
    <p><img src="https://user-images.githubusercontent.com/125151906/220073302-61e5bb1b-d55e-453f-9c1e-3cd0bd64e4f2.png"             width="70" height="70">&nbsp;&nbsp;
-   <img src="https://encrypted-tbn0.gstatic.com/images?                                                        q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="70" height="70">&nbsp;&nbsp;
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_                Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="70" height="70">&nbsp;&nbsp;
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihXU8PH96OIWZ9RrD1-alJOeIOuv4yc2jH6CLmHyCJuuxg6vK-Xn05tXIrN4g0YhVM7U&usqp=CAU" width="70" height="70">&nbsp;&nbsp;</p>
    
 ## API REFERENCE:
