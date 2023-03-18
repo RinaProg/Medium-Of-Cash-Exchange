@@ -8,8 +8,8 @@ Built in Python Api , Framework Flask
 ## OUTPUT:
    <p align="center"><img src="https://user-images.githubusercontent.com/122221586/225337968-611cf09f-8fc1-4f74-8f23-0446c7a09091.png" width="600" height="350">
    </p>
+   
 ## STEPS TO RUN:
-
    - step-1: Go To https://api-ninjas.com/api/convertcurrency
    - step-2: Select Currency Conversion API
    - step-3: Make your account for get the api key
