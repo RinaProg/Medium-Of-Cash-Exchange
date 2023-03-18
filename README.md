@@ -22,7 +22,7 @@ Built in Python Api , Framework Flask
    - step-1: Go To https://api-ninjas.com/api/convertcurrency
    - step-2: Select Currency Conversion API
    - step-3: Make your account for get the api key
-   - step-4: Run main.py file and the project will be .
+   - step-4: Run test.py file and the project will be 🚀
 
 ## CREDITS: 
-   Convert Currency Api -This project could never have been possible without this api. It saved my time while built this project.
+   Convert Currency Api -This project could never have been possible without this api. It saved my time while built this project   👍 
