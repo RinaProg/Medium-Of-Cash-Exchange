@@ -24,6 +24,8 @@ Built in Python Api , Framework Flask
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihXU8PH96OIWZ9RrD1-alJOeIOuv4yc2jH6CLmHyCJuuxg6vK-Xn05tXIrN4g0YhVM7U&usqp=CAU" width="70" height="70">&nbsp;&nbsp;</p>
    
 ## API REFERENCE:
-  
+   | API          |  Key Type    | Key Required     |      GET 	                                |
+   | :--------    | :------- 	   | :--------------- |:------------------------------------------- |
+   | News 	      | `string` 	   | **Required**     | https://api-ninjas.com/api/convertcurrency  |
 ## CREDITS: 
    Convert Currency Api -This project could never have been possible without this api. It saved my time while built this project   👍 
