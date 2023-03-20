@@ -27,6 +27,6 @@ Built in Python Api , Framework Flask
    | API          |  Key Type    | Key Required     |      GET 	                                |
    | :--------    | :------- 	   | :--------------- |:------------------------------------------- |
    | Currency     |              |                  |                                             |
-   | Convater 	   | `string` 	   | **Required**     | https://api-ninjas.com/api/convertcurrency  |
+   | Conveter 	   | `string` 	   | **Required**     | https://api-ninjas.com/api/convertcurrency  |
 ## CREDITS: 
    Convert Currency Api -This project could never have been possible without this api. It saved my time while built this project   👍 
